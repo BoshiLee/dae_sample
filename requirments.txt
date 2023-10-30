@@ -1,0 +1,4 @@
+jupyterlab
+notebook
+matplotlib
+tensorflow == 2.10
