@@ -2,3 +2,5 @@ jupyterlab
 notebook
 matplotlib
 tensorflow == 2.10
+scikit-learn
+seaborn
